@@ -65,23 +65,8 @@ $$
 
 ---
 
-## Step 3: Verify the Maximum
 
-We use the Second Derivative Test to ensure this point is a maximum:
 
-$$
-A''(x) = -6x
-$$
-
-Substituting $x = 1$:
-
-$$
-A''(1) = -6(1) = -6
-$$
-
-Since $A''(x) < 0$, the function is concave down at $x = 1$, confirming a **local maximum**.
-
----
 
 ## Step 4: Calculate the Dimensions and Maximum Area
 
