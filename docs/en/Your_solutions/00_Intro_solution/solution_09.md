@@ -1,6 +1,5 @@
 # Optimization: Maximizing the Area of a Rectangle
 
-This document provides a step-by-step calculus solution to find the dimensions of a rectangle with the maximum possible area inscribed under a parabolic curve.
 
 ## Problem Statement
 
@@ -96,3 +95,8 @@ $$
 - **Critical Value:** $x = 1$
 - **Maximized Dimensions:** $1 \times 2$
 - **Total Area:** $2$
+
+-------------
+![alt text][def]
+
+[def]: image.png
